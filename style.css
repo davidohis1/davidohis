@@ -169,6 +169,9 @@ nav ul li a:hover{
     #img2{
         display: none;
     }
+    #card3{
+        font-size:15px;
+        }
     nav{
         display: none;
     }
